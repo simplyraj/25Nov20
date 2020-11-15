@@ -6,7 +6,8 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
-
+title: Raj Rajagopal
+description: A personal website
 github:
   private: false
   license:
